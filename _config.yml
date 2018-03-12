@@ -1,0 +1,17 @@
+title: Streamdata Gallery Dashboard
+url: dashboard.streamdata.gallery
+tag: Dashboard
+markdown: kramdown
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
+github_user: streamdata-gallery
+github_repo: dashboard
+github_branch: master
+collections:
+  listings:
+    output: true
+    permalink: /listings/:path/
+defaults:
+  - scope:
+      type: listings
+    values:
+      layout: listings
