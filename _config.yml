@@ -1,10 +1,10 @@
-title: Streamdata Gallery Dashboard
-url: dashboard.streamdata.gallery
-tag: Dashboard
+title: Streamdata Gallery Dashboards
+url: dashboards.streamdata.gallery
+tag: Dashboards
 markdown: kramdown
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 github_user: streamdata-gallery
-github_repo: dashboard
+github_repo: dashboards
 github_branch: master
 collections:
   listings:
