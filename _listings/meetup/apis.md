@@ -1,39 +1,38 @@
 ---
 name: Meetup
-description: Meetup is an online social networking portal that facilitates offline
-  group meetings in various localities around the world. Meetup allows members to
-  find and join groups unified by a common interest, such as politics, books, games,
-  movies, health, pets, careers or hobbies.
-image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
+x-slug: meetup
+description: Find Meetups so you can do more of what matters to you. Or create your
+  own group and meet people near you who share your interests.
+image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/6564-meetup.jpg
 x-kinRank: "9"
-x-alexaRank: ""
-tags:
-- Stack Network
-- Stack
-- My API Stack
-- Meetups
-- Media
-- Events
-created: "2018-03-15"
-modified: "2018-03-15"
-url: https://raw.githubusercontent.com/streamdata-gallery/dashboard/master/_listings/meetup/apis.yaml
+x-alexaRank: "917"
+tags: Dashboards
+created: "2018-08-26"
+modified: "2018-08-26"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/meetup/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Meetup
-  description: Meetup is an online social networking portal that facilitates offline
-    group meetings in various localities around the world
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Meetup-Logo-1-med1.jpg
-  humanURL: ""
-  baseURL: https://api.meetup.com//
-  tags: Dashboard
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/dashboard/master/_listings/meetup/dashboard-get.md
+apis: []
 x-common:
+- type: x-api-gallery
+  url: http://medium.api.gallery.streamdata.io
+- type: x-api-stack
+  url: http://meetup.stack.network
 - type: x-base
   url: http://api.meetup.com
+- type: x-crunchbase
+  url: https://crunchbase.com/organization/meetup
 - type: x-developer
   url: http://www.meetup.com/meetup_api/
+- type: x-email
+  url: privacy@meetup.com
+- type: x-email
+  url: abuse@meetup.com
+- type: x-email
+  url: api_license@meetup.com
+- type: x-email
+  url: arbitration-opt-out@meetup.com
+- type: x-email
+  url: legal@meetup.com
 - type: x-github
   url: https://github.com/meetup
 - type: x-pricing
@@ -46,8 +45,10 @@ x-common:
   url: http://www.meetup.com/terms/
 - type: x-twitter
   url: https://twitter.com/MeetupAPI
+- type: x-twitter
+  url: https://twitter.com/Meetup
 - type: x-website
-  url: http://www.meetup.com/
+  url: http://meetup.com
 include: []
 maintainers:
 - FN: Kin Lane
