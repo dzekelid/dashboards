@@ -7,11 +7,31 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/475-server
 x-kinRank: "7"
 x-alexaRank: "209719"
 tags: Dashboards
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/server-density/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Dashboards API - Deleting a dashboard
+  x-api-slug: usersdashboardsdashboardid-
+  description: Deleting a dashboard.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/475-server-density.jpg
+  humanURL: https://www.serverdensity.com
+  baseURL: ://api.serverdensity.io./
+  tags: Monitoring, API United Kingdom, SaaS, Technology, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/server-density/usersdashboardsdashboardid--openapi.md
+- name: Dashboards API - Duplicating a dashboard
+  x-api-slug: usersdashboardsduplicatedasboardid-
+  description: Duplicating a dashboard.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/475-server-density.jpg
+  humanURL: https://www.serverdensity.com
+  baseURL: ://api.serverdensity.io./
+  tags: Monitoring, API United Kingdom, SaaS, Technology, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/server-density/usersdashboardsduplicatedasboardid--openapi.md
 x-common:
 - type: x-website
   url: https://www.serverdensity.com

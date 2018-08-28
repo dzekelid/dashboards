@@ -1,0 +1,242 @@
+{
+	"name": "Streadata.io API Gallery - Dashboards",
+	"description": "This is a repository of dashboards APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/dashboards.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://dashboards.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Stripe",
+			"x-api-slug": "stripe",
+			"description": "Online payment processing for internet businesses. Stripe is a suite of payment APIs that powers commerce for online businesses of all sizes, including fraud prevention, and subscription management. Use Stripes payment platform to accept and process p...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/254-stripe.jpg",
+			"humanURL": "https://stripe.com/",
+			"baseURL": "https://api.stripe.com/v1/",
+			"tags": "Dashboards",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/stripe/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Tumblr",
+			"x-api-slug": "tumblr",
+			"description": "Tumblr is a place to express yourself, discover yourself, and bond over the stuff you love. Its where your interests connect you with your people.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/265-tumblr.jpg",
+			"humanURL": "https://www.tumblr.com/",
+			"baseURL": "https://api.tumblr.com//v2/",
+			"tags": "Dashboards",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/tumblr/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "netvibes",
+			"x-api-slug": "netvibes",
+			"description": "Your Personal Dashboard: See everything thats happening: News, social media, favorite websites all in one Dashboard",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/443-netvibes.jpg",
+			"humanURL": "http://dev.netvibes.com/",
+			"baseURL": "https:///",
+			"tags": "Dashboards",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/netvibes/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Server Density",
+			"x-api-slug": "server-density",
+			"description": "SaaS infrastructure monitoring. Dashboards, graphs and alerts to help you improve performance and maintain uptime. Organizer of @humanops",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/475-server-density.jpg",
+			"humanURL": "https://www.serverdensity.com",
+			"baseURL": "://api.serverdensity.io./",
+			"tags": "Dashboards",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/server-density/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Atlassian",
+			"x-api-slug": "atlassian",
+			"description": "Millions of users globally rely on Atlassian products every day for improving software development, project management, collaboration, and code quality.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/691-atlassian.jpg",
+			"humanURL": "http://atlassian.com/",
+			"baseURL": "https:////",
+			"tags": "Dashboards",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/atlassian/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Junar.com",
+			"x-api-slug": "junar-com",
+			"description": "Fast, easy, and affordable way to transform data into resources that businesses, governments, NGOs, academia and citizens can use.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/827-junar-com.jpg",
+			"humanURL": "http://www.junar.com",
+			"baseURL": "https:///",
+			"tags": "Dashboards",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/junar-com/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Federal Infrastructure Projects",
+			"x-api-slug": "federal-infrastructure-projects",
+			"description": "To achieve that objective, our Federal permitting and review processes must provide a transparent, consistent, and predictable path for both project sponsors and affected communities. They must ensure that agencies set and adhere to timelines and schedules for completion of reviews, set clear permitting performance goals, and track progress against those goals. They must encourage early collaboration among agencies, project sponsors, and affected stakeholders in order to incorporate and address their interests and minimize delays.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/federal-infrastructure-projects.png",
+			"humanURL": "http://permits.performance.gov",
+			"baseURL": "https:///",
+			"tags": "Dashboards",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/federal-infrastructure-projects/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Yellowfin",
+			"x-api-slug": "yellowfin",
+			"description": "Find out how Yellowfin BIs integrated analytics platform takes you beyond data and dashboards with data transformation, creation of analytical apps, market leading collaboration tools and more. Try Yellowfin today to illuminate your data and discover ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1223-yellowfin.jpg",
+			"humanURL": "http://www.yellowfinbi.com/YFWebsite-Embedded-Business-Intelligence-77979",
+			"baseURL": "https:///",
+			"tags": "Dashboards",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/yellowfin/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Meetup",
+			"x-api-slug": "meetup",
+			"description": "Find Meetups so you can do more of what matters to you. Or create your own group and meet people near you who share your interests.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/6564-meetup.jpg",
+			"humanURL": "http://meetup.com",
+			"baseURL": "https:///",
+			"tags": "Dashboards",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/meetup/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avaza",
+			"x-api-slug": "avaza",
+			"description": "Avaza is a beautiful online software suite with modules for Project Management, Timesheets, Expenses &amp; Invoicing. Access from anywhere, with any device. Avaza is the leading all-in-one software for running client focused businesses. Avaza allows businesses of all sizes to more easily and effectively manage team projects, time tracking, expense reporting, quoting &amp; invoicing. It can be accessed simply via a web browser from anywhere in the world on any device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg",
+			"humanURL": "https://www.avaza.com",
+			"baseURL": "https:///",
+			"tags": "Dashboards",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/avaza/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Starred",
+			"x-api-slug": "starred",
+			"description": "Better feedback for everyone, on a human scale. At Starred we like to work smart: working smarter to build great software, and working with smart companies who listen. As the feedback solution which puts the respondent first, we&rsquo;re empowering conversations between companies and their customers and employees. What&rsquo;s more, we equip them with the actionable insights they need to make better decisions and boost loyalty. With leading lights like Deliveroo, Heineken and Spotify already working with us to bring feedback to life, the road ahead for better feedback is looking good.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/starred-logo.png",
+			"humanURL": "https://www.starred.com",
+			"baseURL": "https://example.com//",
+			"tags": "Dashboards",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/starred/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "Dashboards",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/dezrez/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Dashboards",
+	"include": [
+		{
+			"name": "Stripe",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/stripe/apis.yaml"
+		},
+		{
+			"name": "Tumblr",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/tumblr/apis.yaml"
+		},
+		{
+			"name": "netvibes",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/netvibes/apis.yaml"
+		},
+		{
+			"name": "Server Density",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/server-density/apis.yaml"
+		},
+		{
+			"name": "Atlassian",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/atlassian/apis.yaml"
+		},
+		{
+			"name": "Junar.com",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/junar-com/apis.yaml"
+		},
+		{
+			"name": "Federal Infrastructure Projects",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/federal-infrastructure-projects/apis.yaml"
+		},
+		{
+			"name": "Yellowfin",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/yellowfin/apis.yaml"
+		},
+		{
+			"name": "Meetup",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/meetup/apis.yaml"
+		},
+		{
+			"name": "Avaza",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/avaza/apis.yaml"
+		},
+		{
+			"name": "Starred",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/starred/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/dezrez/apis.yaml"
+		}
+	]
+}

@@ -11,8 +11,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaz
 x-kinRank: "7"
 x-alexaRank: "193620"
 tags: Dashboards
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/avaza/apis.md
 specificationVersion: "0.14"
 apis: []

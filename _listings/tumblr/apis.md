@@ -7,11 +7,26 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/265-tumblr
 x-kinRank: "7"
 x-alexaRank: "59"
 tags: Dashboards
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/tumblr/apis.md
 specificationVersion: "0.14"
 apis:
+- name: Tumblr - Get User Dashboard
+  x-api-slug: userdashboard-get
+  description: Use this method to retrieve the dashboard that matches the OAuth credentials
+    submitted with the request.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/265-tumblr.jpg
+  humanURL: https://www.tumblr.com/
+  baseURL: https://api.tumblr.com//v2/
+  tags: Blog, Social, Content, Communications, Blogging, Communications, Stack, Media,
+    Technology, internet, Mobile, General Data, Relative Data, Service API, Pedestal,
+    Historical Data API, Relative StreamRank, Streams
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/tumblr/userdashboard-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/tumblr/userdashboard-get-openapi.md
 - name: Tumblr - Get User Dashboard
   x-api-slug: userdashboard-get
   description: Use this method to retrieve the dashboard that matches the OAuth credentials

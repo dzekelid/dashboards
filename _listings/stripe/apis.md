@@ -9,11 +9,71 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/254-stripe
 x-kinRank: "10"
 x-alexaRank: "1914"
 tags: Dashboards
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/stripe/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Stripe - Add Account
+  x-api-slug: account-post
+  description: Updates a connected Express or Custom account by setting the values
+    of the parameters passed. Any parameters not provided are left unchanged. To update
+    your own account, use the Dashboard.Refer to our Connect documentation to learn
+    more about updating accounts.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/254-stripe.jpg
+  humanURL: https://stripe.com/
+  baseURL: https://api.stripe.com/v1/
+  tags: Billing, Finance, Payments, Payments, Stripe Stack, Imports, Change Log Example,
+    Stack Network, Stack, SaaS, Invoices, Payments, Relative Data, Service API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/stripe/account-post-openapi.md
+- name: Stripe - Add Account
+  x-api-slug: account-post
+  description: Updates a connected Express or Custom account by setting the values
+    of the parameters passed. Any parameters not provided are left unchanged. To update
+    your own account, use the Dashboard.Refer to our Connect documentation to learn
+    more about updating accounts.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/254-stripe.jpg
+  humanURL: https://stripe.com/
+  baseURL: https://api.stripe.com/v1/
+  tags: Billing, Finance, Payments, Payments, Stripe Stack, Imports, Change Log Example,
+    Stack Network, Stack, SaaS, Invoices, Payments, Relative Data, Service API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/stripe/account-post-openapi.md
+- name: Stripe - Add Accounts Account
+  x-api-slug: accountsaccount-post
+  description: Updates a connected Express or Custom account by setting the values
+    of the parameters passed. Any parameters not provided are left unchanged. To update
+    your own account, use the Dashboard.Refer to our Connect documentation to learn
+    more about updating accounts.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/254-stripe.jpg
+  humanURL: https://stripe.com/
+  baseURL: https://api.stripe.com/v1/
+  tags: Billing, Finance, Payments, Payments, Stripe Stack, Imports, Change Log Example,
+    Stack Network, Stack, SaaS, Invoices, Payments, Relative Data, Service API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/stripe/accountsaccount-post-openapi.md
+- name: Stripe - Add Accounts Account
+  x-api-slug: accountsaccount-post
+  description: Updates a connected Express or Custom account by setting the values
+    of the parameters passed. Any parameters not provided are left unchanged. To update
+    your own account, use the Dashboard.Refer to our Connect documentation to learn
+    more about updating accounts.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/254-stripe.jpg
+  humanURL: https://stripe.com/
+  baseURL: https://api.stripe.com/v1/
+  tags: Billing, Finance, Payments, Payments, Stripe Stack, Imports, Change Log Example,
+    Stack Network, Stack, SaaS, Invoices, Payments, Relative Data, Service API, Relative
+    StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/dashboards/master/_listings/stripe/accountsaccount-post-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://stride.api.gallery.streamdata.io
